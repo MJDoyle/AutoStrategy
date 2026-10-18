@@ -1,0 +1,60 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Memory/cache
+[Mm]em[Cc]ache/
+[Ee]xport[Pp]ackages/
+.consoleprojectconfig
+
+# OS / IDE
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Rider / JetBrains
+.idea/
+*.sln.DotSettings.user
+
+# Visual Studio
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Unity auto-generated solution/project files
+Assembly-CSharp*.csproj
+Assembly-CSharp.sln
+
+# Crash dumps
+sysinfo.txt
+*.stackdump
+
+# Asset meta files (keep these — they track GUIDs)
+# *.meta  ← do NOT ignore .meta files in Unity
+
+# Packages lock (keep)
+# Packages/packages-lock.json

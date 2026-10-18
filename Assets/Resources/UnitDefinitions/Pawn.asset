@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a407a0a5ab670479088494f2fefa3d50, type: 3}
+  m_Name: Pawn
+  m_EditorClassIdentifier: Assembly-CSharp::UnitDefinition
+  unitType: 0
+  unitName: Pawn
+  idleSprite: {fileID: -5948806968594788206, guid: d40f95bb35975b57ab99cfb7e8ce54bc, type: 3}
+  idleFrames:
+  - {fileID: -5948806968594788206, guid: d40f95bb35975b57ab99cfb7e8ce54bc, type: 3}
+  - {fileID: -3890830800090718979, guid: d40f95bb35975b57ab99cfb7e8ce54bc, type: 3}
+  - {fileID: 5745166470278179504, guid: d40f95bb35975b57ab99cfb7e8ce54bc, type: 3}
+  - {fileID: -6422090140873712968, guid: d40f95bb35975b57ab99cfb7e8ce54bc, type: 3}
+  - {fileID: 7767364186329714561, guid: d40f95bb35975b57ab99cfb7e8ce54bc, type: 3}
+  - {fileID: -5623599378145798578, guid: d40f95bb35975b57ab99cfb7e8ce54bc, type: 3}
+  - {fileID: -5368615170522500559, guid: d40f95bb35975b57ab99cfb7e8ce54bc, type: 3}
+  - {fileID: 5475363174786605065, guid: d40f95bb35975b57ab99cfb7e8ce54bc, type: 3}
+  runFrames:
+  - {fileID: 3948441758208983171, guid: 17b64bf916ddb115999b6aa76f5b2f5e, type: 3}
+  - {fileID: 2305471599192555470, guid: 17b64bf916ddb115999b6aa76f5b2f5e, type: 3}
+  - {fileID: -7094969777387991619, guid: 17b64bf916ddb115999b6aa76f5b2f5e, type: 3}
+  - {fileID: -4352081444224747174, guid: 17b64bf916ddb115999b6aa76f5b2f5e, type: 3}
+  - {fileID: 9036425764018463110, guid: 17b64bf916ddb115999b6aa76f5b2f5e, type: 3}
+  - {fileID: -5774403828569277791, guid: 17b64bf916ddb115999b6aa76f5b2f5e, type: 3}
+  attackFrames: []
+  projectileSprite: {fileID: 0}
+  cost: 1
+  baseHealth: 80
+  baseAttack: 15
+  attackSpeed: 1.2
+  range: 1
+  moveSpeed: 500
+  description: 

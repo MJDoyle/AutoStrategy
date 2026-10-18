@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcd4a368a2af90eabb7cc35d179368c3, type: 3}
+  m_Name: Castle
+  m_EditorClassIdentifier: Assembly-CSharp::BuildingDefinition
+  buildingName: Castle
+  sprite: {fileID: 21300000, guid: 69ee187837d5b2f9491838f8c85d5f9d, type: 3}
+  cost: 8
+  fogRevealRadius: 6
+  footprintRadius: 3
+  footprintI: 5
+  footprintJ: 4
+  anchorI: 1
+  anchorJ: 1
+  spriteOffsetX: 64
+  spriteOffsetY: -130
+  description: A mighty stronghold.

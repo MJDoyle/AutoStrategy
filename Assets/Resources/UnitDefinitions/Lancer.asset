@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a407a0a5ab670479088494f2fefa3d50, type: 3}
+  m_Name: Lancer
+  m_EditorClassIdentifier: Assembly-CSharp::UnitDefinition
+  unitType: 3
+  unitName: Lancer
+  idleSprite: {fileID: -594197781322936934, guid: 0149921fee5f7fdbdbde2b9decabbf7a, type: 3}
+  idleFrames:
+  - {fileID: -594197781322936934, guid: 0149921fee5f7fdbdbde2b9decabbf7a, type: 3}
+  - {fileID: 455444515322244926, guid: 0149921fee5f7fdbdbde2b9decabbf7a, type: 3}
+  - {fileID: 517828865657036009, guid: 0149921fee5f7fdbdbde2b9decabbf7a, type: 3}
+  - {fileID: -3032027852008287605, guid: 0149921fee5f7fdbdbde2b9decabbf7a, type: 3}
+  - {fileID: -5574184733968180747, guid: 0149921fee5f7fdbdbde2b9decabbf7a, type: 3}
+  - {fileID: -1753309511941541117, guid: 0149921fee5f7fdbdbde2b9decabbf7a, type: 3}
+  - {fileID: 4863313082578348910, guid: 0149921fee5f7fdbdbde2b9decabbf7a, type: 3}
+  - {fileID: -5592250592134132327, guid: 0149921fee5f7fdbdbde2b9decabbf7a, type: 3}
+  - {fileID: 2319514263577396720, guid: 0149921fee5f7fdbdbde2b9decabbf7a, type: 3}
+  - {fileID: -4102534018874827341, guid: 0149921fee5f7fdbdbde2b9decabbf7a, type: 3}
+  - {fileID: 9164178780147294991, guid: 0149921fee5f7fdbdbde2b9decabbf7a, type: 3}
+  - {fileID: 8611835898225032345, guid: 0149921fee5f7fdbdbde2b9decabbf7a, type: 3}
+  runFrames:
+  - {fileID: -8580444238127179786, guid: c0a41425dd5577bdc9842c28e861de92, type: 3}
+  - {fileID: 828278362111410375, guid: c0a41425dd5577bdc9842c28e861de92, type: 3}
+  - {fileID: -4153816518293905039, guid: c0a41425dd5577bdc9842c28e861de92, type: 3}
+  - {fileID: 1456675321045083290, guid: c0a41425dd5577bdc9842c28e861de92, type: 3}
+  - {fileID: -3942745417268178275, guid: c0a41425dd5577bdc9842c28e861de92, type: 3}
+  - {fileID: -1776823346852784203, guid: c0a41425dd5577bdc9842c28e861de92, type: 3}
+  attackFrames:
+  - {fileID: 6331980819534964110, guid: 5333fca170de5981da63606592bd15c2, type: 3}
+  - {fileID: 7232042838751349278, guid: 5333fca170de5981da63606592bd15c2, type: 3}
+  - {fileID: -4157329051755591257, guid: 5333fca170de5981da63606592bd15c2, type: 3}
+  projectileSprite: {fileID: 0}
+  cost: 3
+  baseHealth: 150
+  baseAttack: 55
+  attackSpeed: 0.7
+  range: 2
+  moveSpeed: 700
+  description: 

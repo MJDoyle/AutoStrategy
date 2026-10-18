@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcd4a368a2af90eabb7cc35d179368c3, type: 3}
+  m_Name: Monastery
+  m_EditorClassIdentifier: Assembly-CSharp::BuildingDefinition
+  buildingName: Monastery
+  sprite: {fileID: 21300000, guid: 3d524ee299b51c3efb42cd8f9263bdc0, type: 3}
+  cost: 5
+  fogRevealRadius: 8
+  footprintRadius: 1
+  footprintI: 0
+  footprintJ: 0
+  anchorI: 0
+  anchorJ: 0
+  spriteOffsetX: 0
+  spriteOffsetY: -95
+  description: A place of worship and healing.
